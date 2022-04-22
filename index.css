@@ -1,0 +1,137 @@
+@import url(//db.onlinewebfonts.com/c/0801c08e5412f54e4b4e9ad146d83a12?family=Ink+Free);
+@font-face {font-family: "Ink Free"; src: url("//db.onlinewebfonts.com/t/0801c08e5412f54e4b4e9ad146d83a12.eot"); src: url("//db.onlinewebfonts.com/t/0801c08e5412f54e4b4e9ad146d83a12.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0801c08e5412f54e4b4e9ad146d83a12.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0801c08e5412f54e4b4e9ad146d83a12.woff") format("woff"), url("//db.onlinewebfonts.com/t/0801c08e5412f54e4b4e9ad146d83a12.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0801c08e5412f54e4b4e9ad146d83a12.svg#Ink Free") format("svg"); }
+html {
+  <link href="//db.onlinewebfonts.com/c/0801c08e5412f54e4b4e9ad146d83a12?family=Ink+Free" rel="stylesheet" type="text/css"/>
+  font-size: 10px;
+}
+body {
+  color: #fcf9f7;
+  text-align: center;
+  font-family: Ink Free;
+  background-image: url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY1MDUxNTU3NA&ixlib=rb-1.2.1&q=85");
+  background-size: cover;
+  margin: auto;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+h1 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 5.2rem;
+  line-height: 1.2;
+  background: linear-gradient(
+    to right,
+    #dc5b6e,
+    #f19748,
+    #ead04b,
+    #55a973,
+    #2d8fb6,
+    #6a54b4,
+    #dc5b6e,
+    #f19748,
+    #ead04b,
+    #55a973,
+    #2d8fb6,
+    #6a54b4,
+    #dc5b6e,
+    #f19748,
+    #ead04b,
+    #55a973,
+    #2d8fb6,
+    #6a54b4,
+    #dc5b6e,
+    #f19748,
+    #ead04b,
+    #55a973,
+    #2d8fb6,
+    #6a54b4
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@media (max-width: 460px) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 0.8;
+  }
+}
+q {
+  background: linear-gradient(
+    to right,
+    #fdfd96,
+    #ffe662,
+    #ff6961,
+    #ffe662,
+    #ff6961,
+    #fdfd96
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ul {
+  text-align: left;
+}
+li {
+  margin: auto;
+}
+#main {
+  padding: 3% 12% 3% 12%;
+}
+@media (max-width: 460px) {
+  #main {
+    margin: auto;
+    font-size: 1rem;
+  }
+  svg{
+    width: 1.2rem;
+  }
+  ul{
+    padding: 0 4% 0 5%;
+  }
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#img-div {
+  margin: 0;
+}
+#img-caption {
+  margin: 0;
+}
+@media (max-width: 460px) {
+  #img-caption {
+    font-size: 1rem;
+  }
+}
+p {
+  background: linear-gradient(
+    to right,
+    #f6c5bd,
+    #eb94a6,
+    #cc6e9b,
+    #a36ca8,
+    #cc81bf,
+    #f6c5bd,
+    #eb94a6,
+    #cc6e9b,
+    #a36ca8,
+    #cc81bf,
+    #f6c5bd,
+    #eb94a6,
+    #cc6e9b,
+    #a36ca8,
+    #cc81bf
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+}
+a {
+  color: #2d8fb6;
+}
+a:hover {
+  color: #dc5b6e;
+}
